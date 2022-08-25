@@ -13,6 +13,9 @@ features that will show when completed if you want.
 
 Great simple quick payload for stealing wifi passwords
 
+If you want to use the binary straight out of the box use the inject.bin file
+If you want the source code utilize the WifiThief.txt and encode yourself
+
 
 If using the raw source code then you will need to go to https://payloadstudio.hak5.org/community/ to encode your binary to make this work.
 
